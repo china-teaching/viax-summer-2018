@@ -6,7 +6,7 @@ In this class you will learn to design, prototype, and test interfaces to Smart 
 
 ### Course Calendar
 
-Below is schedule for the following days, where you could find attached the **reading materials** for each day. Enjoy reading :relaxed:
+Below is schedule for the following days, where you could find attached the **reading materials** for each day. Enjoy reading!
 
 
 | Day    | Date     | Reading Due         | Lecture                  | Activity             |
