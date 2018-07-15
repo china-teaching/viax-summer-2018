@@ -2,8 +2,6 @@
 
 Welcome to The James Landay CS Summer Camp! We will be focusing on designing & prototyping smart applications.
 
-![GitHub](https://avatars2.githubusercontent.com/u/3265208?v=3&s=100 "GitHub,Social Coding")
-
 AI is taking over the world. How do we design AI-based applications?
 
 In this class you will learn to design, prototype, and test interfaces to Smart Applications. By the end of the course you will create a smart PROTOTYPE application that can be demoed on your phone. 
