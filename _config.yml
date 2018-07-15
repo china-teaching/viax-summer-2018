@@ -1,6 +1,6 @@
 title: Designing & Prototyping Smart Applications
-author: GitHub User
-email: your-email@domain.com
+author: James Landay
+email: landay@stanford.edu
 
   
 
@@ -38,7 +38,7 @@ minima:
 # - about.md
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
 
 plugins:
  - jekyll-feed
