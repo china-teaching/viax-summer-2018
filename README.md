@@ -2,7 +2,7 @@
 
 Welcome to The James Landay CS Summer Camp! We will be focusing on designing & prototyping smart applications.
 
-https://octodex.github.com/images/yaktocat.png
+![GitHub](https://avatars2.githubusercontent.com/u/3265208?v=3&s=100 "GitHub,Social Coding")
 
 AI is taking over the world. How do we design AI-based applications?
 
