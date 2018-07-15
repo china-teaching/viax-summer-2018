@@ -1,5 +1,3 @@
-## Designing & Prototyping Smart Applications
-
 Welcome to The James Landay CS Summer Camp! We will be focusing on designing & prototyping smart applications.
 
 AI is taking over the world. How do we design AI-based applications?
