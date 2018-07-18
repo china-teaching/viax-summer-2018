@@ -10,9 +10,8 @@ Below are a set of useful prototyping tools and tutorials of them. Play with the
 
 [Sketch](https://www.sketchapp.com/)
 
-A quick walkthrough:
+A quick walkthrough of Sketch:
 
-*Sketch*
 - selecting size of screens
 - naming screens
 - background color
@@ -24,11 +23,11 @@ A quick walkthrough:
 
 Resources on Sketch:
 
-- https://www.chapterthree.com/blog/wireframing-template-for-sketch?ref=sketchappsources.com
+- [Wireframing Template for Sketch](https://www.chapterthree.com/blog/wireframing-template-for-sketch?ref=sketchappsources.com)
 
-- http://www.sketchappsources.com/free-source/1166-iphone-wireframe-template-sketch-freebie-resource.html
+- [iPhone Wireframe Template Sketch Resource](http://www.sketchappsources.com/free-source/1166-iphone-wireframe-template-sketch-freebie-resource.html)
 
-- http://www.sketchappsources.com/free-source/1954-material-design-wireframe-kit-2-sketch-freebie-resource.html
+- [Material Design Wireframe Kit v2 Sketch Resource](http://www.sketchappsources.com/free-source/1954-material-design-wireframe-kit-2-sketch-freebie-resource.html)
 
 
 
@@ -39,16 +38,15 @@ Resources on Sketch:
 [Marvel](https://marvelapp.com/)
 
 
-A quick walkthrough:
+A quick walkthrough of Marvel:
 
-*Marvel*
 - downloading Marvel onto your phone to run prototype *
 - importing from Sketch with auto-updates
 - adding transitions to different screens
 - adding animations to those transitions
-* if they can't download the prototype, another hack is to open it in the browser on your phone and save the link as a bookmark to your homescreen
+- if they can't download the prototype, another hack is to open it in the browser on your phone and save the link as a bookmark to your homescreen
 
 Resources on Marvel:
-- https://www.jianshu.com/p/e6e6b5faacd9
+- [[体验]Web原型工具Marvel使用体验](https://www.jianshu.com/p/e6e6b5faacd9)
 
 
