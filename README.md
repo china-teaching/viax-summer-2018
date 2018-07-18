@@ -22,5 +22,6 @@ Below is schedule for the following days, where you could find attached the **re
 
 
 ### Support or Contact
-Gloria Liu Zhixiu : liuzx16@mails.tsinghua.edu.cn
+Gloria Zhixiu Liu: liuzx16@mails.tsinghua.edu.cn
+Ezio Zhican Yang: yang-zc17@mails.tsinghua.edu.cn
 
