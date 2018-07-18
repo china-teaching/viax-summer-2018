@@ -1,3 +1,9 @@
+###Website
+
+https://china-teaching.github.io/viax-summer-2018/
+
+###Introduction
+
 Welcome to The James Landay CS Summer Camp! We will be focusing on designing & prototyping smart applications.
 
 AI is taking over the world. How do we design AI-based applications?
