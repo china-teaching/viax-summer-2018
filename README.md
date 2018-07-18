@@ -1,8 +1,8 @@
-###Website
+### Website
 
 https://china-teaching.github.io/viax-summer-2018/
 
-###Introduction
+### Introduction
 
 Welcome to The James Landay CS Summer Camp! We will be focusing on designing & prototyping smart applications.
 
