@@ -8,15 +8,7 @@ meta: "Springfield"
 
 Below are a set of useful prototyping tools and tutorials of them. Play with them in advance if you like!
 
-Sketch    https://www.sketchapp.com/
-
-Resources on Sketch:
-
-https://www.chapterthree.com/blog/wireframing-template-for-sketch?ref=sketchappsources.com
-
-http://www.sketchappsources.com/free-source/1166-iphone-wireframe-template-sketch-freebie-resource.html
-
-http://www.sketchappsources.com/free-source/1954-material-design-wireframe-kit-2-sketch-freebie-resource.html
+[Sketch](https://www.sketchapp.com/)
 
 A quick walkthrough:
 
@@ -30,20 +22,21 @@ A quick walkthrough:
 - inserting image files and resizing and cropping
 
 
+Resources on Sketch:
+
+- https://www.chapterthree.com/blog/wireframing-template-for-sketch?ref=sketchappsources.com
+
+- http://www.sketchappsources.com/free-source/1166-iphone-wireframe-template-sketch-freebie-resource.html
+
+- http://www.sketchappsources.com/free-source/1954-material-design-wireframe-kit-2-sketch-freebie-resource.html
 
 
 
-modao 墨刀    https://modao.cc/   
+[Modao (墨刀)](https://modao.cc/)   
 
 
 
-
-
-Marvel    https://marvelapp.com/
-
-
-Resources on Marvel:
-https://www.jianshu.com/p/e6e6b5faacd9
+[Marvel](https://marvelapp.com/)
 
 
 A quick walkthrough:
@@ -54,5 +47,8 @@ A quick walkthrough:
 - adding transitions to different screens
 - adding animations to those transitions
 * if they can't download the prototype, another hack is to open it in the browser on your phone and save the link as a bookmark to your homescreen
+
+Resources on Marvel:
+- https://www.jianshu.com/p/e6e6b5faacd9
 
 
