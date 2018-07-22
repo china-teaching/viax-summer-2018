@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-#[James Landay] https://www.landay.org/
+#[James Landay](https://www.landay.org/)
