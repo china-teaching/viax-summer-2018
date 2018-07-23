@@ -1,6 +1,7 @@
 ---
 layout: page
 title: c
+order: 1
 permalink: /c/
 ---
 
