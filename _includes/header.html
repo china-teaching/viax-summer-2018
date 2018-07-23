@@ -2,7 +2,7 @@
 
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
-    {%- assign page_paths = site.header_pages | default: default_paths | sort: 'order', 'last' -%}
+    {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
     {%- if page_paths -%}
@@ -17,8 +17,13 @@
         </label>
 
         <div class="trigger">
+          {%- assign pages = site.pages -%}
           {%- for path in page_paths -%}
-            {%- assign my_page = site.pages | where: "path", path | last -%}
+            {%- assign my_page = site.pages | where: "path", path | first -%}
+            {%- assign pages = pages | push: my_page -%}
+          {%- endfor -%}
+          {% assign pages = pages | sort: "order" %}
+          {%- for my_page in pages -%}
             {%- if my_page.title -%}
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
