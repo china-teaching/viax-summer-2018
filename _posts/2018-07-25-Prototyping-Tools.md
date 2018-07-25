@@ -29,7 +29,7 @@ Resources on Sketch:
 
 - [Material Design Wireframe Kit v2 Sketch Resource](http://www.sketchappsources.com/free-source/1954-material-design-wireframe-kit-2-sketch-freebie-resource.html)
 
-### [Lunacy, Sketch for Windows](https://icons8.com/lunacy)
+#### [Lunacy, Sketch for Windows](https://icons8.com/lunacy)
 
 <br>
 
