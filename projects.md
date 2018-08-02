@@ -20,7 +20,7 @@ permalink: /projects/
 
 [Health Assistant](https://github.com/china-teaching/viax-summer-2018/raw/master/resources/projects/health-assistant.pptx)
 
-[AI Dietician](https://www.beautiful.ai/-LIL1WFou-IVpIfOjIaP/1)
+[PKU AI-Bin](https://www.beautiful.ai/-LIL1WFou-IVpIfOjIaP/1)
 
 
 
