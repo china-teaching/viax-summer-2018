@@ -16,7 +16,7 @@ permalink: /projects/
 
 ### Week 2
 
-[Envi](https://pan.baidu.com/s/1uVBn-Y0OvBeYFKReCWaJGw)
+[Envi](https://github.com/china-teaching/viax-summer-2018/raw/master/resources/projects/Earth.pptx)
 
 [Health Assistant](https://github.com/china-teaching/viax-summer-2018/raw/master/resources/projects/health-assistant.pptx)
 
